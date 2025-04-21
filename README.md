@@ -19,8 +19,8 @@
     <li><a href="#skills">Skills</a></li>
     <li><a href="#projects">Projects</a></li>
     <li><a href="#experience-achievements">Experience &amp; Achievements</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#github-stats">GitHub Stats</a></li>
+    <li><a href="#contact">Contact</a></li>
   </ul>
 
   <!-- About Me -->
@@ -66,6 +66,8 @@
     <li>GDG LIMU Member – Speaker &amp; organizer for DevFest 2024 (Flutter focus).</li>
     <li>Presented on Legal &amp; Ethical IT Practices: seminar on employee rights.</li>
   </ul>
+  <!-- GitHub Stats -->
+  <h2 id="github-stats">📈 GitHub Stats</h2>
   <p>
     <img
       class="badge"
@@ -73,8 +75,6 @@
       alt="Arjeeah’s GitHub streak stats"
     />
   </p>
-  <!-- GitHub Stats -->
-  <h2 id="github-stats">📈 GitHub Stats</h2>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Arjeeah&show_icons=true&theme=radical" alt="GitHub Stats">
   </p>
