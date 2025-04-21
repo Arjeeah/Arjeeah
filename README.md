@@ -9,7 +9,7 @@
     <img class="badge" src="https://img.shields.io/badge/Laravel-8.x-orange?style=flat-square&logo=laravel" alt="Laravel">
     <img class="badge" src="https://img.shields.io/badge/Flutter-3.7-blue?style=flat-square&logo=flutter" alt="Flutter">
     <img class="badge" src="https://img.shields.io/badge/Kotlin-1.8-purple?style=flat-square&logo=kotlin" alt="Kotlin">
-    <img class="badge" src="https://img.shields.io/github/followers/argea2004?label=Follow&style=flat-square" alt="GitHub Followers">
+    <img class="badge" src="https://img.shields.io/github/followers/Arjeeah?label=Follow&style=flat-square" alt="GitHub Followers">
   </p>
 
   <!-- Table of Contents -->
@@ -76,7 +76,7 @@
   <!-- GitHub Stats -->
   <h2 id="github-stats">📈 GitHub Stats</h2>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=argea2004&show_icons=true&theme=radical" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Arjeeah&show_icons=true&theme=radical" alt="GitHub Stats">
   </p>
 
 </body>
