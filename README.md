@@ -66,6 +66,18 @@
     <li>GDG LIMU Member – Speaker &amp; organizer for DevFest 2024 (Flutter focus).</li>
     <li>Presented on Legal &amp; Ethical IT Practices: seminar on employee rights.</li>
   </ul>
+  <p>
+    <img
+      class="badge"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Arjeeah&theme=radical"
+      alt="Arjeeah’s GitHub streak stats"
+    />
+  </p>
+  <!-- GitHub Stats -->
+  <h2 id="github-stats">📈 GitHub Stats</h2>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Arjeeah&show_icons=true&theme=radical" alt="GitHub Stats">
+  </p>
 
   <!-- Contact -->
   <h2 id="contact">📫 Contact</h2>
@@ -73,11 +85,6 @@
     <strong>Email:</strong> <a href="mailto:argea2004@gmail.com">argea2004@gmail.com</a>
   </p>
 
-  <!-- GitHub Stats -->
-  <h2 id="github-stats">📈 GitHub Stats</h2>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Arjeeah&show_icons=true&theme=radical" alt="GitHub Stats">
-  </p>
 
 </body>
 </html>
