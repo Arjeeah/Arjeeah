@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-active-success?style=flat-square" alt="Status: Active">
-  <img src="https://img.shields.io/badge/Laravel-8.x-orange?style=flat-square&logo=laravel" alt="Laravel">
+  <img src="https://img.shields.io/badge/Laravel-11.x-orange?style=flat-square&logo=laravel" alt="Laravel">
   <img src="https://img.shields.io/badge/Vue.js-3.x-green?style=flat-square&logo=vuedotjs" alt="Vue.js">
   <img src="https://img.shields.io/badge/Flutter-3.7-blue?style=flat-square&logo=flutter" alt="Flutter">
   <img src="https://img.shields.io/badge/Kotlin-1.8-purple?style=flat-square&logo=kotlin" alt="Kotlin">
