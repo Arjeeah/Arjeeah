@@ -108,7 +108,6 @@
   <ul>
     <li><strong>Frontend Technologies:</strong> Developed features for a <strong>Vue.js</strong> based admin panel.</li>
     <li><strong>Key Contributions:</strong> Added multiple functionalities such as a timer for homepage product discounts, a "united frame" management section, and a dedicated timer configuration section for promotional events.</li>
-    <li><strong>Live Link:</strong> <a href="https://admin.arriadagroup.com/">admin.arriadagroup.com</a></li>
   </ul>
   <br>
 </details>
