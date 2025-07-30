@@ -156,6 +156,7 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjeeah&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
 
 ---
 
