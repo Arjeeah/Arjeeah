@@ -1,0 +1,36 @@
+# اسم الـ Workflow الذي سيظهر في تبويب Actions على GitHub
+name: Waka Readme Stats
+
+on:
+  # جدولة التشغيل التلقائي
+  schedule:
+    # يعمل في بداية كل ساعة
+    - cron: '0 * * * *'
+  
+  # يسمح بتشغيل الـ Workflow يدويًا من تبويب Actions
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update Readme with WakaTime Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          # مفتاح WakaTime API الخاص بك (يجب إضافته كـ Secret)
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          
+          # توكن GitHub الخاص بك (يجب إضافته كـ Secret)
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          
+          # حدد الأقسام التي تريد عرضها
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_EDITORS: "True"
+          SHOW_TIMEZONE: "True"
+          SHOW_COMMIT: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
+
