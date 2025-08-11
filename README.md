@@ -163,7 +163,7 @@ You can find the action here: https://www.google.com/search?q=https://github.com
 Once set up, you can uncomment the line below.
 -->
 
-<!-- {{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }} -->
+ {{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }} 
 
 📫 Let's Connect!
 <p align="center">
