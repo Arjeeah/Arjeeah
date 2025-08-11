@@ -157,7 +157,7 @@ Presenter on Legal & Ethical IT Practices: Conducted a seminar focusing on emplo
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjeeah&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
-<START_SECTION:waka><END_SECTION:waka>
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
 
 📫 Let's Connect!
 <p align="center">
