@@ -162,8 +162,8 @@ The WakaTime stats require a GitHub Action to run and update the README.
 You can find the action here: https://www.google.com/search?q=https://github.com/marketplace/actions/wakatime-readme-stats
 Once set up, you can uncomment the line below.
 -->
-
- {{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }} 
+START_SECTION:waka
+END_SECTION:waka
 
 📫 Let's Connect!
 <p align="center">
