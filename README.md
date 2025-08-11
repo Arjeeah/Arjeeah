@@ -157,13 +157,9 @@ Presenter on Legal & Ethical IT Practices: Conducted a seminar focusing on emplo
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjeeah&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
-<!--
-The WakaTime stats require a GitHub Action to run and update the README.
-You can find the action here: https://www.google.com/search?q=https://github.com/marketplace/actions/wakatime-readme-stats
-Once set up, you can uncomment the line below.
--->
-START_SECTION:waka
-END_SECTION:waka
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 📫 Let's Connect!
 <p align="center">
