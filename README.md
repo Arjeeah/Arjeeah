@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/status-active-success?style=flat-square" alt="Status: Active">
 <img src="https://img.shields.io/badge/Laravel-11.x-orange?style=flat-square&logo=laravel" alt="Laravel">
 <img src="https://img.shields.io/badge/Vue.js-3.x-green?style=flat-square&logo=vuedotjs" alt="Vue.js">
-<img src="https://img.shields.io/badge/Flutter-3.7-blue?style=flat-square&logo=flutter" alt="Flutter">
+<img src="https://img.shields.io/badge/Flutter-3.5-blue?style=flat-square&logo=flutter" alt="Flutter">
 <img src="https://img.shields.io/badge/Kotlin-1.8-purple?style=flat-square&logo=kotlin" alt="Kotlin">
 <a href="https://github.com/Arjeeah">
 <img src="https://img.shields.io/github/followers/Arjeeah?label=Follow&style=social" alt="GitHub Followers">
@@ -152,7 +152,7 @@ Presenter on Legal & Ethical IT Practices: Conducted a seminar focusing on emplo
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Arjeeah&show_icons=true&theme=radical&rank_icon=github&hide_border=true" alt="Arjeeah's GitHub Stats" />
 <br/>
-<img src="https://streak-stats.demolab.com?user=Arjeeah&theme=radical&hide_border=true&layout=compact" alt="Arjeeah’s GitHub streak stats" />
+<img src="https://streak-stats.demolab.com?user=Arjeeah&theme=radical&hide_border=false&layout=compact" alt="Arjeeah’s GitHub streak stats" />
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjeeah&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
