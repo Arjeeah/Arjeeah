@@ -152,7 +152,7 @@ Presenter on Legal & Ethical IT Practices: Conducted a seminar focusing on emplo
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Arjeeah&show_icons=true&theme=radical&rank_icon=github&hide_border=true" alt="Arjeeah's GitHub Stats" />
 <br/>
-<img src="https://streak-stats.demolab.com?user=Arjeeah&theme=radical&hide_border=false&layout=compact" alt="Arjeeah’s GitHub streak stats" />
+<img src="https://streak-stats.demolab.com?user=Arjeeah&theme=radical&hide_border=true&layout=compact" alt="Arjeeah’s GitHub streak stats" />
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjeeah&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
