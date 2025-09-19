@@ -1,5 +1,6 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2D20&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Arjeeah+abdulbasit!;Junior+Backend+Developer;Passionate+about+Laravel+%26+Vue.js+%26+Flutter;VMware+Certified+Technical+Associate" alt="Typing SVG" /></a>
+  
 </p>
 
 <p align="center">
