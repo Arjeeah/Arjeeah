@@ -122,60 +122,6 @@ Experienced Full-Stack Developer specializing in backend architecture with Larav
 
 ---
 
-## 💡 Featured Projects
-
-### 🏟️ Stadium - Full-Stack Reservation System
-**Tech Stack:** Laravel · Flutter · REST API · MySQL · Redis · CI/CD
-
-A comprehensive reservation management platform for stadium facilities, featuring real-time booking, role-based access control, and automated notifications.
-
-**Highlights:**
-- Led a team of 5 developers through full SDLC
-- Implemented microservices architecture with Laravel
-- Built cross-platform Flutter applications for iOS and Android
-- Established CI/CD pipelines for automated testing and deployment
-- Authored complete technical documentation and API specifications
-
----
-
-### 🎬 Asaria TV - Admin Management System
-**Tech Stack:** Vue.js · Laravel · REST API · MySQL
-
-Enterprise-grade admin dashboard for managing a TV streaming platform with advanced content management capabilities.
-
-**Highlights:**
-- Designed and implemented complete frontend architecture with Vue.js
-- Integrated seamlessly with Laravel backend APIs
-- Focused on optimal UX and responsive design
-- Implemented real-time data synchronization
-
----
-
-### 🛍️ Arriada Group - E-Commerce Platform
-**Tech Stack:** Vue.js · Laravel · MySQL · Redis
-
-Multi-faceted e-commerce solution including customer-facing store and comprehensive admin panel.
-
-**Highlights:**
-- Developed advanced features: maintenance mode, promotional timers, dynamic product displays
-- Built "united frame" functionality for enhanced product presentation
-- Implemented admin dashboard for promotional campaign management
-- Optimized performance with Redis caching
-
----
-
-### 📚 DevFest Flutter Workshop
-**Tech Stack:** Flutter · Dart · Educational Content
-
-Interactive workshop series introducing developers to Flutter ecosystem and best practices.
-
-**Highlights:**
-- Delivered hands-on coding sessions and live demonstrations
-- Created comprehensive video tutorials and learning materials
-- Engaged participants through interactive games and exercises
-- Focused on practical, real-world Flutter applications
-
----
 
 ## 🎖️ Professional Achievements
 
@@ -208,16 +154,6 @@ Interactive workshop series introducing developers to Flutter ecosystem and best
 
 ---
 
-## 📌 Pinned Repositories
-
-<div align="center">
-  <a href="https://github.com/Arjeeah/stadium">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arjeeah&repo=stadium&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-  </a>
-  <a href="https://github.com/Arjeeah/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arjeeah&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-  </a>
-</div>
 
 ---
 
