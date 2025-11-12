@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Arjy%20Talzwy&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Arjeeah%20Abdulbasit&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 </div>
 
 <h3 align="center">Backend Developer | Laravel Specialist | Full-Stack Engineer</h3>
@@ -9,11 +9,11 @@
 
 <div align="center">
 
-## 🏆 Global Rankings
+## 🏆 Global Rankings & Recognition
 
 [![committers.top](https://user-badge.committers.top/libya/Arjeeah.svg)](https://user-badge.committers.top/libya/Arjeeah)
 
-**Libya #46** (All Contributions) | **World Ranking** | **Top Developer**
+[![GitHub Rank](https://github-readme-rank.vercel.app/api/rank?username=Arjeeah&country_code=LY&theme=dark)](https://github.com/jayehernandez/github-rank)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Arjeeah&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/Arjeeah?style=for-the-badge&color=blue&label=FOLLOWERS)
