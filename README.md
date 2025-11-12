@@ -11,9 +11,9 @@
 
 ## 🏆 Global Rankings & Recognition
 
-[![committers.top](https://user-badge.committers.top/libya/Arjeeah.svg)](https://user-badge.committers.top/libya/Arjeeah)
+[![committers.top badge](https://user-badge.committers.top/libya_private/Arjeeah.svg)](https://user-badge.committers.top/libya_private/Arjeeah)
 
-[![GitHub Rank](https://github-readme-rank.vercel.app/api/rank?username=Arjeeah&country_code=LY&theme=dark)](https://github.com/jayehernandez/github-rank)
+[![committers.top badge](https://user-badge.committers.top/libya/Arjeeah.svg)](https://user-badge.committers.top/libya/Arjeeah)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Arjeeah&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/Arjeeah?style=for-the-badge&color=blue&label=FOLLOWERS)
@@ -122,7 +122,6 @@ Experienced Full-Stack Developer specializing in backend architecture with Larav
 
 ---
 
-
 ## 🎖️ Professional Achievements
 
 <table align="center">
@@ -154,8 +153,6 @@ Experienced Full-Stack Developer specializing in backend architecture with Larav
 
 ---
 
-
----
 
 ## 🐍 Contribution Snake
 
