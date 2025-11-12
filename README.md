@@ -13,7 +13,6 @@
 
 [![committers.top badge](https://user-badge.committers.top/libya_private/Arjeeah.svg)](https://user-badge.committers.top/libya_private/Arjeeah)
 
-[![committers.top badge](https://user-badge.committers.top/libya/Arjeeah.svg)](https://user-badge.committers.top/libya/Arjeeah)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Arjeeah&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/Arjeeah?style=for-the-badge&color=blue&label=FOLLOWERS)
