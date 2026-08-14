@@ -24,7 +24,7 @@
 
 ---
 
-## 🎯 Professional Summary
+## 🎯 Professional Summarya
 
 Experienced Full-Stack Developer specializing in backend architecture with Laravel, complemented by expertise in Vue.js and Flutter. Proven track record of leading development teams, implementing CI/CD pipelines, and delivering scalable enterprise solutions. VMware certified with a perfect score, active tech community speaker, and contributor to modern web and mobile ecosystems.
 
